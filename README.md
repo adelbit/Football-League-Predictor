@@ -10,7 +10,7 @@ Tech used:
 
 4.) NumPy
 
-5.) Scikit-Leaen 
+5.) Scikit-Learn 
 
 6.) TensorFlow 2.0
 
