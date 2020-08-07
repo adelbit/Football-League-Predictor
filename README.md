@@ -1,6 +1,7 @@
 As a die hard football fan and due to the suspension of football leagues across the world due to the pandemic, we created a football league predictor.
 
 We used datasets from kaggle and the following tech stack:-
+
 Tech used: 
 1) Jupyter Notebook
 2) Python 3.8
